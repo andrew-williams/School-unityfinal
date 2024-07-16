@@ -1,0 +1,67 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.01.2012 22:40:05
+
+newmtl Handle
+	Ns 50.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.572549 0.486275 0.298039
+	Kd 0.572549 0.486275 0.298039
+	Ks 0.909000 0.909000 0.909000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Kevin\Documents\3dsMax\sceneassets\images\Weapons\Katana\handle.jpg
+	map_Kd C:\Users\Kevin\Documents\3dsMax\sceneassets\images\Weapons\Katana\handle.jpg
+	map_Ks C:\Users\Kevin\Documents\3dsMax\sceneassets\images\Weapons\Katana\handle.jpg
+	map_bump -bm 0.500000 Map__13_Normal_Bump.tga
+	map_refl Map__36_Mask.tga
+
+newmtl 07___Default
+	Ns 75.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.070588 0.070588 0.070588
+	Kd 0.070588 0.070588 0.070588
+	Ks 1.080000 1.080000 1.080000
+	Ke 0.000000 0.000000 0.000000
+	map_bump -bm 0.300000 Map__54_Normal_Bump.tga
+	map_refl Map__52_Falloff.tga
+
+newmtl Blade
+	Ns 48.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.039216 0.039216 0.039216
+	Kd 0.039216 0.039216 0.039216
+	Ks 1.080000 1.080000 1.080000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Kevin\Documents\3dsMax\sceneassets\images\Weapons\Katana\blade_dif.jpg
+	map_Kd C:\Users\Kevin\Documents\3dsMax\sceneassets\images\Weapons\Katana\blade_dif.jpg
+	map_Ke C:\Users\Kevin\Documents\3dsMax\sceneassets\images\Weapons\Katana\blade.jpg
+	map_bump Map__48_Normal_Bump.tga
+	map_refl Map__16_Mask.tga
+
+newmtl gold
+	Ns 50.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.666667 0.729412 0.752941
+	Kd 0.666667 0.729412 0.752941
+	Ks 0.553333 0.605412 0.624941
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Kevin\Documents\3dsMax\sceneassets\images\Weapons\Katana\blade.jpg
+	map_Kd C:\Users\Kevin\Documents\3dsMax\sceneassets\images\Weapons\Katana\blade.jpg
+	map_Ks C:\Users\Kevin\Documents\3dsMax\sceneassets\images\Weapons\Katana\blade.jpg
+	map_bump -bm 0.300000 Map__39_Normal_Bump.tga
+	map_refl Map__7_Reflect_Refract.tga

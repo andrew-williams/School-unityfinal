@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SoldierController.js">
+    <Files>
+      <File FileName="Assets\Scripts\InfantryController.js" Line="16" Column="21" />
+      <File FileName="Assets\Scripts\SoldierController.js" Line="245" Column="57" />
+      <File FileName="Assets\Scripts\GenerateEntity.cs" Line="47" Column="3" />
+      <File FileName="Assets\shootrandomly.cs" Line="30" Column="5" />
+      <File FileName="Assets\lockrotation.cs" Line="5" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

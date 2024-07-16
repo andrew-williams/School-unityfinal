@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0C5209D0-3151-DF38-3659-0B9242715AE9}") = "VGD22X_GameProject3", "Assembly-CSharp-firstpass-vs.csproj", "{E5A828F1-2234-69FD-FE01-4E1A0199940D}"
+EndProject
+Project("{0C5209D0-3151-DF38-3659-0B9242715AE9}") = "VGD22X_GameProject3", "Assembly-CSharp-vs.csproj", "{67B2CF87-17EF-D24B-B414-4EA6EE0883C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A828F1-2234-69FD-FE01-4E1A0199940D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A828F1-2234-69FD-FE01-4E1A0199940D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A828F1-2234-69FD-FE01-4E1A0199940D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A828F1-2234-69FD-FE01-4E1A0199940D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B2CF87-17EF-D24B-B414-4EA6EE0883C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B2CF87-17EF-D24B-B414-4EA6EE0883C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B2CF87-17EF-D24B-B414-4EA6EE0883C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B2CF87-17EF-D24B-B414-4EA6EE0883C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+										GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
